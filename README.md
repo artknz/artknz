@@ -18,7 +18,7 @@
 ### 📞 Мои контакты
 
 [<img aling="left" alt="linkedin" width="22px" src="./icons/iconfinder-social-media-applications-14linkedin-4102586_113786.svg" />][linkedin]
-[<img aling="left" alt="facebook" width="22px" src="./icons/Facebook_icon-icons.com_66805.svg />][facebook]
+[<img aling="left" alt="facebook" width="22px" src="./icons/Facebook_icon-icons.com_66805.svg" />][facebook]
 
 <br />
 
