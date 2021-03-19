@@ -11,9 +11,9 @@
 
 <img align="left" alt="vscode" width="26px" src="./icons/file_type_vscode_icon_130084 (1).svg" />
 
-### Мои контакты
+### 📞 Мои контакты
 
-[<img aling="left" alt="linkedin" width="22px" src="../icons/linkedin_socialnetwork_17441.png" />][linkedin]
+[<img aling="left" alt="linkedin" width="22px" src="./icons/iconfinder-social-media-applications-14linkedin-4102586_113786.svg" />][linkedin]
 
 [![📊 Моя статистика:](https://github-readme-stats.vercel.app/api?username=artknz)](https://github.com/anuraghazra/github-readme-stats)
 
