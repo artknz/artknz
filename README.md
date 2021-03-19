@@ -16,7 +16,7 @@
 
 [<img aling="left" alt="linkedin" width="22px" src="./icons/iconfinder-linkedin.svg" />][linkedin]
 [<img aling="left" alt="facebook" width="22px" src="./icons/Facebook_icon-icons.com_66805.svg" />][facebook]
-[<img aling="left" alt="telegram" width="22px" src="./icons/telegram_icon_130816.svg />][telegram]
+[<img aling="left" alt="telegram" width="22px" src="./icons/telegram_icon_130816.svg" />][telegram]
 <br />
 
 ### 📊 Моя статистика:
