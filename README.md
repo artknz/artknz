@@ -4,28 +4,38 @@
 - 👨‍💻 Учусь писать чистый читабельный код
 - 🤝 Хочу работать с опытными коллегами
 - ⬆️ Совершенствуюсь в знаниях фреймворков
-- ⚙️ Хочу стать разработчиком полного цикла
+- ⚙️ Хочу освоить навыки Full Stack разработчика
 
 ### 🔧 Мой стек
 
 <img align="left" alt="html" width="26px" src="./icons/file_type_html_icon_130541.svg" />
+<img align="left" alt="css" width="26px" src="./icons/file_type_css_icon_130661.svg" />
+<img align="left" alt="js" width="26px" src="./icons/javascript_icon_130900.svg" />
+<img align="left" alt="react" width="26px" src="./icons/react_original_logo_icon_146374.svg" />
+<img align="left" alt="node" width="26px" src="./icons/nodejs_original_wordmark_logo_icon_146412.svg" />
+<img align="left" alt="express" width="26px" src="./icons/express_original_wordmark_logo_icon_146528.svg" />
+<img align="left" alt="mongo" width="26px" src="./icons/mongodb_original_wordmark_logo_icon_146425.svg" />
+<img align="left" alt="git" width="26px" src="./icons/git_original_wordmark_logo_icon_146510.svg" />
+<img align="left" alt="gitlab" width="26px" src="./icons/gitlab_original_wordmark_logo_icon_146504.svg" />
+<img align="left" alt="npm" width="26px" src="./icons/npm_original_wordmark_logo_icon_146402.svg" />
 <img align="left" alt="vscode" width="26px" src="./icons/file_type_vscode_icon_130084.svg" />
 <br />
 
 ### 📞 Мои контакты
 
-[<img aling="left" alt="linkedin" width="22px" src="./icons/iconfinder-linkedin.svg" />][linkedin]
-[<img aling="left" alt="facebook" width="22px" src="./icons/Facebook_icon-icons.com_66805.svg" />][facebook]
-[<img aling="left" alt="telegram" width="22px" src="./icons/telegram_icon_130816.svg" />][telegram]
+[<img aling="left" alt="linkedin" target="_blank" width="22px" src="./icons/iconfinder-linkedin.svg" />][linkedin]
+[<img aling="left" alt="facebook" target="_blank" width="22px" src="./icons/Facebook_icon.svg" />][facebook]
+[<img aling="left" alt="telegram" target="_blank" width="22px" src="./icons/telegram_icon_130816.svg" />][telegram]
+
+<br />
 <br />
 
 ### 📊 Моя статистика:
 
 [![Моя статистика:](https://github-readme-stats.vercel.app/api?username=artknz)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artknz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artknz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/artyomknyazev
 [facebook]: https://www.facebook.com/artyom.knz
 [telegram]: https://t.me/a_knyazev
-
