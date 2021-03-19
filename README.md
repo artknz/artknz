@@ -32,7 +32,7 @@
 
 ### 📊 Моя статистика:
 
-[![Моя статистика:](https://github-readme-stats.vercel.app/api?username=artknz)](https://github.com/anuraghazra/github-readme-stats)
+[![Artyom's GitHub stats](https://github-readme-stats.vercel.app/api?username=artknz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artknz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
