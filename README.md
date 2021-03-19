@@ -6,7 +6,14 @@
 - ⬆️ Совершенствуюсь в знаниях фреймворков
 - ⚙️ Хочу освоить навыки Full Stack разработчика
 
-### 🔧 Мой стек
+### Мои контакты 📞 
+
+[<img aling="left" alt="linkedin" target="_blank" width="22px" src="./icons/iconfinder-linkedin.svg" />][linkedin]
+[<img aling="left" alt="facebook" target="_blank" width="22px" src="./icons/Facebook_icon.svg" />][facebook]
+[<img aling="left" alt="telegram" target="_blank" width="22px" src="./icons/telegram_icon_130816.svg" />][telegram]
+<br />
+
+### Мой стек 🔧 
 
 <img align="left" alt="html" width="26px" src="./icons/file_type_html_icon_130541.svg" />
 <img align="left" alt="css" width="26px" src="./icons/file_type_css_icon_130661.svg" />
@@ -19,15 +26,6 @@
 <img align="left" alt="gitlab" width="26px" src="./icons/gitlab_original_wordmark_logo_icon_146504.svg" />
 <img align="left" alt="npm" width="26px" src="./icons/npm_original_wordmark_logo_icon_146402.svg" />
 <img align="left" alt="vscode" width="26px" src="./icons/file_type_vscode_icon_130084.svg" />
-<br />
-
-### 📞 Мои контакты
-
-[<img aling="left" alt="linkedin" target="_blank" width="22px" src="./icons/iconfinder-linkedin.svg" />][linkedin]
-[<img aling="left" alt="facebook" target="_blank" width="22px" src="./icons/Facebook_icon.svg" />][facebook]
-[<img aling="left" alt="telegram" target="_blank" width="22px" src="./icons/telegram_icon_130816.svg" />][telegram]
-
-<br />
 <br />
 
 ### 📊 Моя статистика:
