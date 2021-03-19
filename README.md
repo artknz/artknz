@@ -3,23 +3,20 @@
 ### Я начинающий Front End разработчик
 - 👨‍💻 Учусь писать чистый читабельный код
 - 🤝 Хочу работать с опытными коллегами
-- 🦾 Совершенствуюсь в знаниях фреймворков
+- ⬆️ Совершенствуюсь в знаниях фреймворков
 - ⚙️ Хочу стать разработчиком полного цикла
-
 
 ### 🔧 Мой стек
 
 <img align="left" alt="html" width="26px" src="./icons/file_type_html_icon_130541.svg" />
 <img align="left" alt="vscode" width="26px" src="./icons/file_type_vscode_icon_130084.svg" />
-
-
 <br />
 
 ### 📞 Мои контакты
 
-[<img aling="left" alt="linkedin" width="22px" src="./icons/iconfinder-social-media-applications-14linkedin-4102586_113786.svg" />][linkedin]
+[<img aling="left" alt="linkedin" width="22px" src="./icons/iconfinder-linkedin.svg" />][linkedin]
 [<img aling="left" alt="facebook" width="22px" src="./icons/Facebook_icon-icons.com_66805.svg" />][facebook]
-
+[<img aling="left" alt="telegram" width="22px" src="./icons/telegram_icon_130816.svg />][telegram]
 <br />
 
 ### 📊 Моя статистика:
@@ -29,5 +26,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artknz)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/artyomknyazev
-[facebook]: https://www.facebook.com/artyom.knz/
+[facebook]: https://www.facebook.com/artyom.knz
+[telegram]: https://t.me/a_knyazev
 
