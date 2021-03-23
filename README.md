@@ -8,7 +8,7 @@
 
 ### Мои контакты:
 
-[<img aling="left" style="padding-right: 20px" alt="linkedin" target="_blank" width="22px" src="./icons/iconfinder-linkedin.svg" />][linkedin]
+<div style="padding-right: 20px">[<img aling="left" alt="linkedin" target="_blank" width="22px" src="./icons/iconfinder-linkedin.svg" />][linkedin]</div>
 [<img aling="left" style="padding-right: 20px" alt="facebook" target="_blank" width="22px" src="./icons/Facebook_icon.svg" />][facebook]
 [<img aling="left" style="padding-right: 20px" alt="telegram" target="_blank" width="22px" src="./icons/telegram_icon_130816.svg" />][telegram]
 <br />
