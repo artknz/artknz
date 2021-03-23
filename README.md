@@ -8,14 +8,14 @@
 
 ### Мои контакты:
 
-<div style="padding-right: 20px">[<img aling="left" alt="linkedin" target="_blank" width="22px" src="./icons/iconfinder-linkedin.svg" />][linkedin]</div>
-[<img aling="left" style="padding-right: 20px" alt="facebook" target="_blank" width="22px" src="./icons/Facebook_icon.svg" />][facebook]
-[<img aling="left" style="padding-right: 20px" alt="telegram" target="_blank" width="22px" src="./icons/telegram_icon_130816.svg" />][telegram]
+[<img aling="left" alt="linkedin" target="_blank" width="22px" src="./icons/iconfinder-linkedin.svg" />][linkedin]
+[<img aling="left" alt="facebook" target="_blank" width="22px" src="./icons/Facebook_icon.svg" />][facebook]
+[<img aling="left" alt="telegram" target="_blank" width="22px" src="./icons/telegram_icon_130816.svg" />][telegram]
 <br />
 
 ### Мой стек:
 
-<img align="left" alt="html" width="26px" src="./icons/file_type_html_icon_130541.svg" />
+<img align="left" style="padding-right: 0px" alt="html" width="26px" src="./icons/file_type_html_icon_130541.svg" />
 <img align="left" alt="css" width="26px" src="./icons/file_type_css_icon_130661.svg" />
 <img align="left" alt="js" width="26px" src="./icons/javascript_icon_130900.svg" />
 <img align="left" alt="react" width="26px" src="./icons/react_original_logo_icon_146374.svg" />
