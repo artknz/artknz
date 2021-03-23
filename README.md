@@ -15,7 +15,7 @@
 
 ### Мой стек:
 
-<img align="left" style="padding-right: 0px" alt="html" width="26px" src="./icons/file_type_html_icon_130541.svg" />
+<img align="left" style="padding: 0" alt="html" width="26px" src="./icons/file_type_html_icon_130541.svg" />
 <img align="left" alt="css" width="26px" src="./icons/file_type_css_icon_130661.svg" />
 <img align="left" alt="js" width="26px" src="./icons/javascript_icon_130900.svg" />
 <img align="left" alt="react" width="26px" src="./icons/react_original_logo_icon_146374.svg" />
