@@ -1,16 +1,16 @@
-## Всем привет 👋, меня зовут Артем
+## Всем привет 👋 меня зовут Артем
 
 ### Я начинающий Front End разработчик
-- 👨‍💻 Учусь писать чистый читабельный код
+- 👨‍💻 Учусь писать чистый, читабельный код
 - 🤝 Хочу работать с опытными коллегами
 - ⬆️ Совершенствуюсь в знаниях фреймворков
 - ⚙️ Хочу освоить навыки Full Stack разработчика
 
 ### Мои контакты:
 
-[<img aling="left" alt="linkedin" target="_blank" width="22px" src="./icons/iconfinder-linkedin.svg" />][linkedin]
-[<img aling="left" alt="facebook" target="_blank" width="22px" src="./icons/Facebook_icon.svg" />][facebook]
-[<img aling="left" alt="telegram" target="_blank" width="22px" src="./icons/telegram_icon_130816.svg" />][telegram]
+[<img aling="left" style="padding-right: 20px" alt="linkedin" target="_blank" width="22px" src="./icons/iconfinder-linkedin.svg" />][linkedin]
+[<img aling="left" style="padding-right: 20px" alt="facebook" target="_blank" width="22px" src="./icons/Facebook_icon.svg" />][facebook]
+[<img aling="left" style="padding-right: 20px" alt="telegram" target="_blank" width="22px" src="./icons/telegram_icon_130816.svg" />][telegram]
 <br />
 
 ### Мой стек:
